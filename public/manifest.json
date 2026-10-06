@@ -1,0 +1,16 @@
+{
+  "name": "The Artisanal Roast & Co.",
+  "short_name": "Artisanal Roast",
+  "description": "Craft Coffee, Sourdough Bakes & Calm Vibes - Digital Table Menu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1917",
+  "theme_color": "#c27803",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
